@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "C:\\Users\\RyoSa\\anaconda3\\python.exe",
+  "python.autoComplete.extraPaths": [
+    "./**"
+  ],
+  "python.analysis.extraPaths": [
+    "./**"
+  ],
+}
